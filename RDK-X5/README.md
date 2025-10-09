@@ -24,13 +24,8 @@ $\color{Green}\Huge{\textbf{System Image }}$
 - [Ubuntu Server]()
 
 ---
-$\color{Green}\Huge{\textbf{Getting Started with Port Pi 3A}}$
 
-1. ⏳️Build Your Own DIY Android Tablet with Port Pi 3A and HDMI Screen 
-2. ⏳️Getting Started with Your Port Pi 3A with Debian Linux and HDMI Screen
-
----
-$\color{Green}\Huge{\textbf{Shorts Video}}$
+$\color{Green}\Huge{\textbf{Shorts}}$
 
 1. 🆓️ D-Robotics RDK X5 Single Board Computer Unboxing & First Impressions [[Watch]](https://youtube.com/shorts/Mi0fdwfc6Uo)
 2. 🆓️ Unboxing & First Look:  RDK Stereo Camera Module for RDK X5 from D-Robotics [[Watch]](https://youtube.com/shorts/Q-Nx8d2WUG8)
