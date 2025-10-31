@@ -42,7 +42,7 @@ $\color{Green}\Huge{\textbf{System Image }}$
 
 | No. | Title | YouTube | Dailymotion | Rumble |
 |-----|-------|---------|-------------|--------|
-| 1. | 🆓️ Flash Ubuntu Desktop OS + HDMI Setup | [▶️ Watch](https://youtu.be/f1VbnBCVjno) | [▶️ Watch](#) | [▶️ Watch](https://rumble.com/v711cbm-getting-started-with-d-robotics-rdk-x5-flash-ubuntu-desktop-os-to-sd-card-h.html?e9s=src_v1_ucp_a) |
+| 1. | 🆓️ Flash Ubuntu Desktop OS + HDMI Setup | [▶️ Watch](https://youtu.be/f1VbnBCVjno) | [▶️ Watch](https://dai.ly/x9szxrs) | [▶️ Watch](https://rumble.com/v711cbm-getting-started-with-d-robotics-rdk-x5-flash-ubuntu-desktop-os-to-sd-card-h.html?e9s=src_v1_ucp_a) |
 | 2. | ⏳️ Flash Ubuntu Server OS + USB Debug + WiFi Setup | [▶️ Watch] | [▶️ Watch] | [▶️ Watch] |
 
 ---
