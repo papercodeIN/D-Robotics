@@ -47,8 +47,6 @@ $\color{Green}\Huge{\textbf{System Image }}$
 
 ---
 
-## 🟢 $\color{Green}\Huge{\textbf{GPIO}}$
-
 ### ⚡ Hardware Control & Integration
 
 | No. | Title | YouTube | Dailymotion | Rumble |
